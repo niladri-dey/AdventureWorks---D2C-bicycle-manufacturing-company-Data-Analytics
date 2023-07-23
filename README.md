@@ -19,3 +19,5 @@ A star schema is the simplest and most common type of data model, characterized 
 
 A snowflake schema is an extension of a star and includes relationships between dimension tables and related sub-dimension tables
 
+
+![star_schema](https://github.com/niladri-dey/AdventureWorks---D2C-bicycle-manufacturing-company-Data-Analytics/assets/63118910/6984e8b8-cb4f-46b9-9d3f-3d1c4b2d9e2e)
