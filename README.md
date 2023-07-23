@@ -14,3 +14,8 @@ After gathering all required data then perform some ETL jobs on all this data an
 ![sales_adventureWorks_dataModel](https://github.com/niladri-dey/AdventureWorks---D2C-bicycle-manufacturing-company-Data-Analytics/assets/63118910/1a9eb57d-9b07-427d-a743-465ac942544f)
 
 ![return_datamodel_advenureworks](https://github.com/niladri-dey/AdventureWorks---D2C-bicycle-manufacturing-company-Data-Analytics/assets/63118910/23344583-e51d-4cc2-b96c-33f78c9dbaa0)
+
+A star schema is the simplest and most common type of data model, characterized by a single fact table surrounded by related dimension tables
+
+A snowflake schema is an extension of a star and includes relationships between dimension tables and related sub-dimension tables
+
