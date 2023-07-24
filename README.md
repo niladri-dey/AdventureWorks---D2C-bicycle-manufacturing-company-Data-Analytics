@@ -28,6 +28,7 @@ A snowflake schema is an extension of a star and includes relationships between 
 ![dashboard_main_page](https://github.com/niladri-dey/AdventureWorks---D2C-bicycle-manufacturing-company-Data-Analytics/assets/63118910/8cbeda21-511a-435a-9da8-175be8cbf7ef)
 ![product_analysis_dashboard](https://github.com/niladri-dey/AdventureWorks---D2C-bicycle-manufacturing-company-Data-Analytics/assets/63118910/14e67ea6-9f03-420a-a3e3-d8a0da4b50ae)
 
+![customer_dashboard](https://github.com/niladri-dey/AdventureWorks---D2C-bicycle-manufacturing-company-Data-Analytics/assets/63118910/8858ddf8-bc24-4eb7-b847-a5fbff456560)
 
 
 
