@@ -30,6 +30,9 @@ A snowflake schema is an extension of a star and includes relationships between 
 
 ![customer_dashboard](https://github.com/niladri-dey/AdventureWorks---D2C-bicycle-manufacturing-company-Data-Analytics/assets/63118910/8858ddf8-bc24-4eb7-b847-a5fbff456560)
 
+## Details Project Report
+https://www.notion.so/Data-Analysis-of-a-global-manufacturing-company-that-produces-cycling-equipment-and-accessories-51affd2126eb419ebf34bf082bf00bdf?pvs=4
+
 
 
 
